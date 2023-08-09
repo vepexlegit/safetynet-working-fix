@@ -14,6 +14,8 @@ Delete the old one and install the new one. (if an update is released in safetyn
 
 MAGISK <-
 
+SAFETYNET FAILED CTS PROFILE MISMATCH -> WORKING FIX! :)
+
 -----------------
 
 SAFETYNET WORKING FIX 2.4.0 MOD BY VEPEXLEGIT (service.sh edited = working fix)
