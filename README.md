@@ -13,3 +13,9 @@ Delete the old one and install the new one. (if an update is released in safetyn
 -----------------
 
 MAGISK <-
+
+-----------------
+
+SAFETYNET WORKING FIX 2.4.0 MOD BY VEPEXLEGIT (service.sh edited = working fix)
+
+:)
